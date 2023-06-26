@@ -6,4 +6,4 @@ set(CMAKE_C_STANDARD 11)
 include_directories(.)
 
 add_executable(PraticaABB
-        main.c arvBB.h arvBB.c)
+        main.c arvBB.h arvBB.c fila.h fila.c)
